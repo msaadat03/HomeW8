@@ -1,0 +1,14 @@
+C:\Users\OMEN\source\repos\HomeW8\HomeW8\bin\Debug\netcoreapp3.1\HomeW8.exe
+C:\Users\OMEN\source\repos\HomeW8\HomeW8\bin\Debug\netcoreapp3.1\HomeW8.deps.json
+C:\Users\OMEN\source\repos\HomeW8\HomeW8\bin\Debug\netcoreapp3.1\HomeW8.runtimeconfig.json
+C:\Users\OMEN\source\repos\HomeW8\HomeW8\bin\Debug\netcoreapp3.1\HomeW8.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\HomeW8\HomeW8\bin\Debug\netcoreapp3.1\HomeW8.dll
+C:\Users\OMEN\source\repos\HomeW8\HomeW8\bin\Debug\netcoreapp3.1\HomeW8.pdb
+C:\Users\OMEN\source\repos\HomeW8\HomeW8\obj\Debug\netcoreapp3.1\HomeW8.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\HomeW8\HomeW8\obj\Debug\netcoreapp3.1\HomeW8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\HomeW8\HomeW8\obj\Debug\netcoreapp3.1\HomeW8.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\HomeW8\HomeW8\obj\Debug\netcoreapp3.1\HomeW8.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\HomeW8\HomeW8\obj\Debug\netcoreapp3.1\HomeW8.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\HomeW8\HomeW8\obj\Debug\netcoreapp3.1\HomeW8.dll
+C:\Users\OMEN\source\repos\HomeW8\HomeW8\obj\Debug\netcoreapp3.1\HomeW8.pdb
+C:\Users\OMEN\source\repos\HomeW8\HomeW8\obj\Debug\netcoreapp3.1\HomeW8.genruntimeconfig.cache
